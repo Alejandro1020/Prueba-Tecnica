@@ -1,0 +1,8 @@
+C:\Users\Alejo\Desktop\OrdenarArreglo\bin\Debug\OrdenarArreglo.exe.config
+C:\Users\Alejo\Desktop\OrdenarArreglo\bin\Debug\OrdenarArreglo.exe
+C:\Users\Alejo\Desktop\OrdenarArreglo\bin\Debug\OrdenarArreglo.pdb
+C:\Users\Alejo\Desktop\OrdenarArreglo\obj\Debug\OrdenarArreglo.csproj.AssemblyReference.cache
+C:\Users\Alejo\Desktop\OrdenarArreglo\obj\Debug\OrdenarArreglo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejo\Desktop\OrdenarArreglo\obj\Debug\OrdenarArreglo.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Desktop\OrdenarArreglo\obj\Debug\OrdenarArreglo.exe
+C:\Users\Alejo\Desktop\OrdenarArreglo\obj\Debug\OrdenarArreglo.pdb
